@@ -1,0 +1,25 @@
+header, section, footer, aside, nav, article, figure, figcaption {
+    display: block;
+}
+
+.jumbotron {
+margin-bottom: 0px;
+}
+
+.ontop {
+    position: absolute;
+    left: auto;
+    right: 5px;
+    background-color: transparent;
+    border-color: transparent;
+
+}
+
+.ontop button.navbar-toggle{
+    background-color: #fff;
+    border-color:#888;
+}
+
+body {
+    margin: 0px 50px  ;
+}
